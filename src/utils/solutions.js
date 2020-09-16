@@ -88,7 +88,7 @@ const Solutions = [
     description:
       "Keep employees in compliance with Department of Health regulations and continually check to make sure they do not appear in any OIG exlusion lists and databases",
     bulletPoints: [
-      "Developed to help providers maintain compliance consistent with the Department of Health 766 Regualtions regarding the 'Minimum Standards for Licensed Home Care Services Agencies'",
+      "Developed to help providers maintain compliance consistent with the Department of Health 766 Regulations regarding the 'Minimum Standards for Licensed Home Care Services Agencies'",
       "Fully customizable for each provider",
       "Tracks pre-employment and annual requirements such as physicals, vaccinations, drug screens and background checks",
       "Receive alerts before employees potentially fall out of compliance due to unfulfilled inservice and other annual requirements",
